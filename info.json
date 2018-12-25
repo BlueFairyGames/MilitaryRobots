@@ -1,0 +1,11 @@
+{
+    "name": "MilitaryRobots",
+    "version": "1.0.0",
+    "title": "Military Robots",
+    "author": "bluefairygames",
+    "contact": "dev@bluefairygames.com",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "This mod adds military robots which can fire bullets, lasers, rockets, and artillery to defend the base."
+}
